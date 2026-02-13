@@ -80,7 +80,7 @@ I am focused on building practical solutions and continuously enhancing my techn
 
 - Email: sinha.shruti1009@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/shruti-sinha-60b112270? 
-- GitHub: 
+- GitHub: https://github.com/Shrutishinha
 
 ---
 
