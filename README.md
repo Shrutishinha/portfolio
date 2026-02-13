@@ -78,9 +78,9 @@ I am focused on building practical solutions and continuously enhancing my techn
 
 ## Contact Information
 
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+- Email: sinha.shruti1009@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/shruti-sinha-60b112270? 
+- GitHub: 
 
 ---
 
