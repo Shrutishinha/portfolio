@@ -1,166 +1,95 @@
+🌌 Shruti Sinha
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Data+Analytics+%7C+Machine+Learning;Automation+%7C+Cloud+Systems;Building+Scalable+Solutions" /> </p>
+🧠 About Me
+Name: Shruti Sinha
+Field: Computer Science Engineering
+Focus Areas:
+  - Data Analytics
+  - Machine Learning
+  - Automation Systems
+  - Algorithm Optimization
+Mindset: Execution > Excuses
 
-Alright Shruti.
-You want a **strong, professional README for GitHub** based on this portfolio.
+I build systems that are:
 
-Since you're targeting **data + ML + automation + strong CS fundamentals**, I’ll write this strategically — not like a beginner, but like someone preparing for high-paying engineering roles.
+📊 Data-driven
 
-You can paste this directly into `README.md`.
+⚙️ Scalable
 
----
+🧩 Architecturally structured
 
-# 👩‍💻 Shruti Sinha
+🚀 Production-ready
 
-**Computer Science Engineer | Data Analytics | Machine Learning | Automation Systems**
+⚡ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,c,sql" /> </p>
+📊 Data & ML
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
+🤖 Automation & Cloud
+<p> <img src="https://img.shields.io/badge/Appium-472E92?style=for-the-badge"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/LambdaTest-7C6AF7?style=for-the-badge"/> </p>
+🚀 Featured Projects
+<details> <summary><strong>🧪 AI-Powered iOS Test Automation Framework</strong></summary>
 
----
+Built modular cloud-based automation framework
 
-## 🚀 About Me
+AI-generated test cases
 
-I am a Computer Science Engineering student with strong foundations in:
+Executed on real iOS devices
 
-* Data Structures & Algorithms
-* System Design
-* Database Systems
-* Operating Systems
-* Compiler Design
+Tech: Python, Appium, XCUITest
+Impact: Scalable real-device automation
 
-My core interest areas include:
+</details>
+<details> <summary><strong>📄 Resume Analyzer & Job Matcher</strong></summary>
 
-* 📊 Data Analytics & Insight Generation
-* 🤖 Machine Learning Systems
-* ☁️ Cloud-Based Automation
-* 🧠 Algorithm Optimization
+NLP-based resume parsing
 
-I focus on building scalable, production-ready systems — not just academic projects.
+Job description similarity scoring
 
----
+Automated ranking system
 
-## 🛠 Technical Stack
+Tech: Python, NLP, Scikit-learn
+Impact: Smart resume-to-JD mapping
 
-### 💻 Languages
+</details>
+<details> <summary><strong>📊 College Data Analytics Dashboard</strong></summary>
 
-* Python
-* Java
-* C
-* SQL
+Attendance & marks trend analysis
 
-### 📊 Data & Machine Learning
+Performance prediction
 
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* NLP
-* Power BI
+Structured SQL backend
 
-### 🤖 Automation & Cloud
+Tech: Python, Pandas, SQL, Power BI
+Impact: Data-driven academic tracking
 
-* Selenium
-* Appium
-* XCUITest
-* LambdaTest
-* HyperExecute
+</details>
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutishinha&theme=tokyonight&hide_border=true" /> </p>
+🧩 Core CS Strength
 
-### 🌐 Web
+🔁 Dynamic Programming
 
-* HTML
-* CSS
-* JavaScript
+🌳 Graph Algorithms
 
-### 🧰 Tools
+🧵 OS Process Scheduling
 
-* Git
-* GitHub
-* MySQL
-* Jupyter
-* VS Code
+🗄 DBMS Normalization
 
----
+🧠 Compiler Design
 
-## 📌 Featured Projects
+📬 Connect With Me
+<p align="center"> <a href="mailto:sinha.shruti1009@gmail.com"> <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/shruti-sinha-60b112270"> <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Shrutishinha"> <img src="https://img.shields.io/badge/GitHub-7C6AF7?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+🔥 Optional Advanced Transition Additions
 
-### 1️⃣ AI-Powered iOS Test Automation Framework
+If you want it even more premium, I can add:
 
-Designed a modular automation framework executing AI-generated test cases on real iOS devices through cloud infrastructure.
+✨ Snake contribution animation
 
-**Tech:** Python, Appium, LambdaTest, XCUITest
-**Impact:** Scalable real-device cloud automation
+🌈 Animated gradient banner
 
----
+🧠 Matrix-style code rain header
 
-### 2️⃣ Resume Analyzer & Job Matcher
+🚀 “Currently Building” dynamic section
 
-Built an NLP-based system that matches resumes with job descriptions using text similarity and keyword extraction.
-
-**Tech:** Python, NLP, Scikit-learn
-**Impact:** Automated resume-to-JD matching
-
----
-
-### 3️⃣ College Data Analytics Dashboard
-
-Developed a performance analytics dashboard analyzing attendance, marks trends, and predictive performance metrics.
-
-**Tech:** Python, Pandas, SQL, Power BI
-**Impact:** Data-driven academic tracking
-
----
-
-### 4️⃣ Customer Churn Prediction Model
-
-Created a classification model to predict customer retention risk using behavioral datasets.
-
-**Tech:** Python, Scikit-learn, Pandas
-**Impact:** Proactive retention insights
-
----
-
-### 5️⃣ College Management System
-
-Built a Java-based system for managing student data, course records, and administrative workflows.
-
-**Tech:** Java, MySQL
-**Impact:** End-to-end academic record management
-
----
-
-## 🎯 Academic Deep Focus
-
-* Dynamic Programming
-* Graph Algorithms
-* Process Scheduling
-* Memory Management
-* Cache Mapping
-* Virtual Memory
-* Query Optimization
-* Compiler Parsing Techniques
-
----
-
-## 💡 Strengths
-
-* Analytical Thinking
-* Structured Problem Solving
-* Strong Debugging Skills
-* Execution-Focused
-* Clean Documentation
-* Continuous Learning Mindset
-
----
-
-## 📫 Let's Connect
-
-* 📧 Email: [sinha.shruti1009@gmail.com](mailto:sinha.shruti1009@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/shruti-sinha-60b112270](https://linkedin.com/in/shruti-sinha-60b112270)
-* 💻 GitHub: [https://github.com/Shrutishinha](https://github.com/Shrutishinha)
-
----
-
-If you want, I can now:
-
-* 🔥 Make a **more powerful FAANG-style README**
-* 📈 Add GitHub stats & activity graphs
-* 🧠 Rewrite it in a more aggressive “high-performer” tone
-* 🎨 Make a visually aesthetic Markdown version with badges
-
-Tell me which level you want.
+📊 Live LeetCode stats
