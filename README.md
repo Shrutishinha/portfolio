@@ -1,95 +1,130 @@
-🌌 Shruti Sinha
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Data+Analytics+%7C+Machine+Learning;Automation+%7C+Cloud+Systems;Building+Scalable+Solutions" /> </p>
-🧠 About Me
-Name: Shruti Sinha
-Field: Computer Science Engineering
-Focus Areas:
-  - Data Analytics
-  - Machine Learning
-  - Automation Systems
-  - Algorithm Optimization
-Mindset: Execution > Excuses
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3200&pause=900&color=7C6AF7&center=true&vCenter=true&width=760&lines=Shruti+Sinha;Computer+Science+Engineer;Data+Analytics+%7C+Machine+Learning;Automation+%7C+Cloud+Systems" />
+</p>
 
-I build systems that are:
+---
 
-📊 Data-driven
+## 👋 About
 
-⚙️ Scalable
+I am a **Computer Science Engineering student** focused on building **scalable systems**, extracting **data-driven insights**, and solving **non-trivial engineering problems**.
 
-🧩 Architecturally structured
+My work spans:
+- Data Analytics & Visualization  
+- Machine Learning pipelines  
+- Automation frameworks on cloud infrastructure  
+- Strong foundations in Algorithms & Core CS  
 
-🚀 Production-ready
+I value **clarity, structure, and execution**.
 
-⚡ Tech Stack
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,c,sql" /> </p>
-📊 Data & ML
-<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
-🤖 Automation & Cloud
-<p> <img src="https://img.shields.io/badge/Appium-472E92?style=for-the-badge"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/LambdaTest-7C6AF7?style=for-the-badge"/> </p>
-🚀 Featured Projects
-<details> <summary><strong>🧪 AI-Powered iOS Test Automation Framework</strong></summary>
+---
 
-Built modular cloud-based automation framework
+## 🛠 Technical Stack
 
-AI-generated test cases
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql" />
+</p>
 
-Executed on real iOS devices
+### Data & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-Tech: Python, Appium, XCUITest
-Impact: Scalable real-device automation
+### Automation & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Appium-472E92?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LambdaTest-7C6AF7?style=for-the-badge"/>
+</p>
 
-</details>
-<details> <summary><strong>📄 Resume Analyzer & Job Matcher</strong></summary>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,jupyter,vscode" />
+</p>
 
-NLP-based resume parsing
+---
 
-Job description similarity scoring
+## 🚀 Selected Projects
 
-Automated ranking system
+<details>
+<summary><strong>AI-Powered iOS Test Automation Framework</strong></summary>
 
-Tech: Python, NLP, Scikit-learn
-Impact: Smart resume-to-JD mapping
+- Designed a **cloud-based automation framework** for real iOS devices  
+- Integrated **AI-generated test cases** with modular execution layers  
+- Implemented structured logging and reporting  
 
-</details>
-<details> <summary><strong>📊 College Data Analytics Dashboard</strong></summary>
-
-Attendance & marks trend analysis
-
-Performance prediction
-
-Structured SQL backend
-
-Tech: Python, Pandas, SQL, Power BI
-Impact: Data-driven academic tracking
+**Tech:** Python, Appium, XCUITest, LambdaTest  
+**Outcome:** Scalable real-device automation at production level
 
 </details>
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutishinha&theme=tokyonight&hide_border=true" /> </p>
-🧩 Core CS Strength
 
-🔁 Dynamic Programming
+---
 
-🌳 Graph Algorithms
+<details>
+<summary><strong>Resume Analyzer & Job Matcher</strong></summary>
 
-🧵 OS Process Scheduling
+- Built an **NLP pipeline** for resume parsing and job matching  
+- Implemented keyword extraction and similarity scoring  
+- Automated ranking of resumes against job descriptions  
 
-🗄 DBMS Normalization
+**Tech:** Python, NLP, Scikit-learn  
+**Outcome:** Reduced manual resume screening effort
 
-🧠 Compiler Design
+</details>
 
-📬 Connect With Me
-<p align="center"> <a href="mailto:sinha.shruti1009@gmail.com"> <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/shruti-sinha-60b112270"> <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Shrutishinha"> <img src="https://img.shields.io/badge/GitHub-7C6AF7?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-🔥 Optional Advanced Transition Additions
+---
 
-If you want it even more premium, I can add:
+<details>
+<summary><strong>College Data Analytics Dashboard</strong></summary>
 
-✨ Snake contribution animation
+- Analyzed attendance and academic performance trends  
+- Designed dashboards for actionable insights  
+- Used structured SQL backend with analytics layer  
 
-🌈 Animated gradient banner
+**Tech:** Python, Pandas, SQL, Power BI  
+**Outcome:** Data-driven academic decision support
 
-🧠 Matrix-style code rain header
+</details>
 
-🚀 “Currently Building” dynamic section
+---
 
-📊 Live LeetCode stats
+## 📚 Core Computer Science Focus
+
+- Data Structures & Algorithms  
+- Dynamic Programming & Graph Algorithms  
+- Operating Systems & Memory Management  
+- Database Systems & Query Optimization  
+- Compiler Design fundamentals  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:sinha.shruti1009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shruti-sinha-60b112270">
+    <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shrutishinha">
+    <img src="https://img.shields.io/badge/GitHub-7C6AF7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with intent · Focused on impact · Continuous improvement</sub>
+</p>
