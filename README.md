@@ -1,10 +1,14 @@
-<!-- ============================= -->
-<!--        ANIMATED HEADER        -->
-<!-- ============================= -->
+<!-- ===================================================== -->
+<!--                ANIMATED GRADIENT HEADER               -->
+<!-- ===================================================== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=35&duration=3000&pause=1000&color=7C6AF7&center=true&vCenter=true&width=700&lines=Shruti+Sinha;Computer+Science+Engineer;AI+%7C+Data+Analytics+%7C+Automation;Building+Scalable+Systems" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:f472b6,100:22d3ee&height=200&section=header&text=Shruti%20Sinha&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI+%7C+Data+Analytics+%7C+Automation;Building+Scalable+Systems;Solving+Complex+Engineering+Problems" />
+</h3>
 
 <p align="center">
   <em>Disciplined Execution • Continuous Learning • Measurable Impact</em>
@@ -12,14 +16,14 @@
 
 ---
 
-<!-- ============================= -->
-<!--            BADGES             -->
-<!-- ============================= -->
+<!-- ===================================================== -->
+<!--                     BADGES STRIP                      -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7c6af7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-f472b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Core-Computer%20Science-22d3ee?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-7c6af7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-f472b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-22d3ee?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-4ade80?style=for-the-badge"/>
 </p>
 
@@ -27,140 +31,116 @@
 
 # 🌌 Developer Portfolio
 
-> A modern, animated, dark-themed personal portfolio built using pure HTML, CSS, and JavaScript.
+<img src="https://user-images.githubusercontent.com/74038190/212744275-9c0f5f75-cc18-4b23-b9c4-8e5e8d5f8e3b.gif" width="100%"/>
+
+> A premium, dark-themed, animated portfolio built using pure HTML, CSS & JavaScript.
 
 ---
 
-## ✨ Overview
+# ✨ About This Portfolio
 
-This portfolio represents:
+This project demonstrates:
 
-- 🔬 Strong CS fundamentals  
-- 🤖 AI-powered automation systems  
-- 📊 Data-driven analytics solutions  
-- 🧠 Structured engineering mindset  
-- 🎨 Premium UI/UX execution  
+🔹 Structured frontend architecture  
+🔹 Scroll-triggered animations  
+🔹 Gradient shimmer typography  
+🔹 Cursor glow interaction  
+🔹 Modular card-based layout  
+🔹 Clean visual hierarchy  
 
-It features smooth transitions, gradient animations, floating background effects, and scroll-triggered reveals — designed with intentional visual hierarchy.
+Built intentionally without frameworks — pure engineering fundamentals.
 
 ---
 
 # 🛠 Tech Stack
 
 ## 🌐 Frontend
-- HTML5  
-- CSS3 (Custom variables, gradients, transitions)  
-- Vanilla JavaScript  
-- Intersection Observer API  
+![HTML](https://img.shields.io/badge/HTML5-7c6af7?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-f472b6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-22d3ee?style=flat-square)
 
-## 🧠 Engineering Focus
+## 🧠 Core Engineering
 - Data Structures & Algorithms  
 - Machine Learning & NLP  
-- Cloud-based Automation  
+- Cloud-based Test Automation  
 - Data Analytics & Dashboarding  
-- Core CS (OS, DBMS, COA, Compiler Design)
+- OS • DBMS • COA • Compiler Design  
 
 ---
 
 # 🚀 Featured Projects
 
-## 1️⃣ AI-Powered iOS Test Automation Framework
-- Real-device cloud execution  
-- Modular architecture  
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered iOS Automation
 - AI-generated test cases  
-- Structured reporting  
+- Real-device cloud execution  
+- Modular reporting architecture  
 
-**Tech:** Python • Appium • XCUITest • LambdaTest  
+**Tech:** Python • Appium • XCUITest  
 
----
+</td>
+<td width="50%">
 
-## 2️⃣ Resume Analyzer & Job Matcher
-- NLP-based similarity scoring  
+### 📄 Resume Analyzer
+- NLP similarity scoring  
 - Keyword extraction  
-- Automated resume-to-JD mapping  
-
-**Tech:** Python • NLP • Scikit-learn  
-
----
-
-## 3️⃣ College Data Analytics Dashboard
-- Attendance & marks tracking  
-- Performance trend analysis  
-- Data visualization  
-
-**Tech:** Python • Pandas • SQL • Power BI  
-
----
-
-## 4️⃣ Customer Churn Prediction
-- Behavioral data modeling  
-- Classification algorithms  
-- Retention risk prediction  
+- Automated JD matching  
 
 **Tech:** Python • Scikit-learn  
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Analytics Dashboard
+- Attendance & marks tracking  
+- Trend visualization  
+- Predictive insights  
+
+**Tech:** Pandas • SQL • Power BI  
+
+</td>
+<td width="50%">
+
+### 📉 Churn Prediction
+- Behavioral modeling  
+- Classification algorithms  
+- Retention insights  
+
+**Tech:** Python • ML  
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 5️⃣ College Management System
-- Academic workflow automation  
-- Database-integrated system  
-- Structured Java architecture  
+# ⚙️ Engineering Philosophy
 
-**Tech:** Java • MySQL  
-
----
-
-# ⚙️ Website Features
-
-✔ Sticky Navigation  
-✔ Smooth Scroll  
-✔ Cursor Glow Interaction  
-✔ Floating Gradient Orbs  
-✔ Section Fade-In Animation  
-✔ Hover Micro-Interactions  
-✔ Responsive Layout  
-✔ Clean Semantic Structure  
-
----
-
-# 📂 Project Structure
-
-
+```diff
++ Build clean.
++ Build scalable.
++ Build measurable.
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutishinha&theme=tokyonight&hide_border=true" width="48%"/> </p>
+🧩 Project Structure
 portfolio/
 │── index.html
 │── README.md
 
+Single-page architecture. Lightweight. Performance-first.
 
-Single-page static architecture for performance and simplicity.
-
----
-
-# 💻 Run Locally
-
-```bash
+💻 Run Locally
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 open index.html
 
-No frameworks. No dependencies. Pure frontend engineering.
-
-🌍 Deployment
-
-Recommended Platforms:
-
-GitHub Pages
-
-Netlify
-
-Vercel
+No dependencies. No frameworks. Pure frontend discipline.
 
 📬 Connect With Me
 <p align="center"> <a href="mailto:sinha.shruti1009@gmail.com"> <img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/shruti-sinha-60b112270"> <img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Shrutishinha"> <img src="https://img.shields.io/badge/GitHub-7c6af7?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-🧠 Philosophy
-
-“Build systems that scale.
-Solve problems that matter.
-Execute with discipline.”
-
-<h3 align="center"> ⭐ If you found this inspiring, consider starring the repository. </h3>
-<p align="center"> Built with intention by <strong>Shruti Sinha</strong> © 2025 </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:f472b6,100:7c6af7&height=120&section=footer"/> </p> ```
