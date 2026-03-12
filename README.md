@@ -29,7 +29,7 @@
 
 ---
 
-# 🌌 Developer Portfolio HIHI
+# 🌌 Developer Portfolio
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-9c0f5f75-cc18-4b23-b9c4-8e5e8d5f8e3b.gif" width="100%"/>
 
