@@ -46,7 +46,7 @@ This project demonstrates:
 🔹 Gradient shimmer typography  
 🔹 Cursor glow interaction  
 🔹 Modular card-based layout  
-🔹 Clean visual hierarchy  JI
+🔹 Clean visual hierarchy  
 
 Built intentionally without frameworks — pure engineering fundamentals.
 
