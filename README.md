@@ -106,7 +106,7 @@ Built intentionally without frameworks — pure engineering fundamentals.
 </td>
 <td width="50%">
 
-### 📉 Churn Prediction
+### 📉 Churn PredictionHELLO
 - Behavioral modeling  
 - Classification algorithms  
 - Retention insights  
