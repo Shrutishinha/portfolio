@@ -2,7 +2,7 @@
 <!--                ANIMATED GRADIENT HEADER               -->
 <!-- ===================================================== -->
 
-<p align="center">hi
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:f472b6,100:22d3ee&height=200&section=header&text=Shruti%20Sinha&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
