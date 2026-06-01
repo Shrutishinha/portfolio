@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:f472b6,100:22d3ee&height=220&section=header&text=Shruti%20Sinha&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
-
+hihi
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI+%7C+Data+Analytics+%7C+Automation;Building+High-Impact+Systems;Engineering+with+Precision+%26+Discipline" />
 </h3>
