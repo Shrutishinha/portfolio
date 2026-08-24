@@ -11,14 +11,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;AI+%7C+Data+Analytics+%7C+Automation;Building+Intelligent+%26+Scalable+Systems;Turning+Data+into+Decisions;Engineering+with+Precision+%26+Purpose"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;AI+%7C+Data+Analytics+%7C+Automation;Building+Intelligent+%26+Scalable+Systems;Turning+Data+into+Decisions;From+Ideas+to+Working+Systems"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <em>
-    Build with purpose • Learn continuously • Solve intelligently
+    Build with purpose • Solve with logic • Learn by building
   </em>
 </p>
 
@@ -36,16 +36,17 @@
 ---
 
 <!-- ===================================================== -->
-<!--                  PROFILE SNAPSHOT                     -->
+<!--                  DEVELOPER SNAPSHOT                   -->
 <!-- ===================================================== -->
 
 <h2 align="center">⚡ Developer Snapshot</h2>
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
-### 🧠
+### 🤖
 **AI & ML**
 
 Machine Learning  
@@ -56,7 +57,7 @@ NLP • GenAI
 <td align="center" width="25%">
 
 ### 📊
-**Analytics**
+**Data**
 
 Python  
 SQL • Power BI
@@ -82,24 +83,35 @@ Java • C++
 DSA • DBMS
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<!-- ===================================================== -->
+<!--                     ABOUT ME                          -->
+<!-- ===================================================== -->
+
 # 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** interested in building practical solutions at the intersection of **Artificial Intelligence, Data Analytics, Machine Learning, and Automation**.
+I'm a **Computer Science Engineering student** focused on building practical solutions across **Artificial Intelligence, Machine Learning, Data Analytics, and Test Automation**.
 
-I enjoy turning complex problems into **clean, measurable, and scalable solutions** — from data pipelines and ML models to automation frameworks and interactive dashboards.
+My projects range from **AI-powered career tools and healthcare applications** to **data dashboards, predictive models, and automated testing systems**.
+
+I enjoy working across the complete problem-solving cycle:
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  CURRENT FOCUS                        │
-├──────────────────────────────────────────────────────┤
-│  🤖 Artificial Intelligence & Machine Learning        │
-│  📊 Data Analytics & Visualization                   │
-│  ⚙️ Test Automation & Engineering                    │
-│  🧠 DSA & Problem Solving                            │
-│  🚀 Building Real-World Projects                     │
-└──────────────────────────────────────────────────────┘
+Problem
+   ↓
+Data
+   ↓
+Logic / Model
+   ↓
+Engineering
+   ↓
+Automation
+   ↓
+Insights
+   ↓
+Real-World Solution
