@@ -1,5 +1,5 @@
 <p align="center">
-  <img
+  <imghi
     src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,45:f472b6,100:22d3ee&height=230&section=header&text=Shruti%20Sinha&fontSize=52&fontAlignY=35&animation=fadeIn&fontColor=ffffff"
     width="100%"
   />
